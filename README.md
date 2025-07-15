@@ -1,1 +1,0 @@
-# QAManual_dP
