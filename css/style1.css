@@ -22,8 +22,3 @@ body{
     box-shadow: none;
     position: relative;
     top: 5px;}
-
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;}
