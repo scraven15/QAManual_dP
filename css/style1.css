@@ -5,7 +5,9 @@ body{
 .leftimg{
     float:left;
     margin: 7px 7px 7px 0;
-    padding: 3px; border: black solid 3px;}
+    padding: 3px;
+    border: black solid 3px;
+    border-radius: 15px;}
 
 .btn-new{
     border: none;
@@ -20,3 +22,8 @@ body{
     box-shadow: none;
     position: relative;
     top: 5px;}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;}
